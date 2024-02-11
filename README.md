@@ -25,12 +25,12 @@
             </td>
             <td valign="middle">South Ural State University.
             </br>Master of Infocommuncation and connections
-            <a target="_blank" href="https://www.csu.ru/en">csu.ru</a>.
+            <a target="_blank" href="https://www.susu.ru/en">susu.ru</a>.
     </td>
 </tr>
 <tr>
     <td width="30%" valign="center">
-        <img src="images/logo/qa-guru.png">
+        <img src="images/logo/yapracticum.svg">
         </td>
     </tr>
 </tr>
