@@ -21,21 +21,23 @@
   <table width="100%" border='0'>
     <tr>
         <td width="30%" align="center" valign="center">
-            <img src="images/logo/Emblema_CelGU Sm.png">
+            <img src="images/logo/susu.png">
             </td>
             <td valign="middle">South Ural State University.
-            </br>Master of Infocommuncation and connections
+            </br>Master of infocommuncation and connections
             <a target="_blank" href="https://www.susu.ru/en">susu.ru</a>.
     </td>
 </tr>
 <tr>
     <td width="30%" valign="center">
         <img src="images/logo/yapracticum.svg">
+ <td valign="middle">Yandex Practicum.
+ <a target="_blank" href="https://practicum.yandex.ru/qa-engineer/">QA course</a>.
+ </td>
         </td>
     </tr>
-</tr>
 </table>
-</br>
+
   </details>
   
 <!-- Tools section -->
@@ -88,4 +90,4 @@
 🌍 I speak Russian, English<p></p>  
 </details>
   </div>
-</details>
+
