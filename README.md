@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/whespeer"><img width="32px" alt="Telegram" title="Telegram" src="images/logo/Telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/whespeer"><img width="32px" alt="VK" title="VK" src="images/logo/vk.svg"/></a>
+  <a href="https://vk.com/alexander_kopyrkin"><img width="32px" alt="VK" title="VK" src="images/logo/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/aleksandr-kopyrkin/"><img width="32px" alt="Linkedin" title="Linkedin" src="images/logo/Linkedin_icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
